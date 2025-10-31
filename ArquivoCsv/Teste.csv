@@ -1,4 +1,4 @@
-ra;Nome;Nota1Bim;Nota2Bim
-2025123;Eduardo;7;9
-2025321;Teste;5;10
-2025123;Fulano;10;1
+ra;Nome;Nota1Bim;Nota2Bim;Turma
+2025123;Eduardo;7;9;A
+2025321;Teste;5;10;B
+2025123;Fulano;10;1;C

@@ -17,22 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F40CAEBB-5D9C-4C36-9F67-44784C2D3CF8}|ArquivoCsv\\ArquivoCsv.csproj|c:\\users\\cunha\\onedrive\\documents\\projetos\\2esan\\programa\u00E7\u00E3o de computadores\\2\u00B0 bimestre\\progcomp2\\arquivocsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F40CAEBB-5D9C-4C36-9F67-44784C2D3CF8}|ArquivoCsv\\ArquivoCsv.csproj|solutionrelative:arquivocsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43F6F86-C5CF-473A-B8FE-6463749A59A9}|TratamentoErros\\TratamentoErros.csproj|c:\\users\\cunha\\onedrive\\documents\\projetos\\2esan\\programa\u00E7\u00E3o de computadores\\2\u00B0 bimestre\\progcomp2\\tratamentoerros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43F6F86-C5CF-473A-B8FE-6463749A59A9}|TratamentoErros\\TratamentoErros.csproj|solutionrelative:tratamentoerros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B741C05-5B17-48D6-A528-CF7F3684251A}|ArrayLista\\ArrayLista.csproj|c:\\users\\cunha\\onedrive\\documents\\projetos\\2esan\\programa\u00E7\u00E3o de computadores\\2\u00B0 bimestre\\progcomp2\\arraylista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B741C05-5B17-48D6-A528-CF7F3684251A}|ArrayLista\\ArrayLista.csproj|solutionrelative:arraylista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ABB9991-A1CA-4C63-A631-3DE957A8384E}|Arquivos\\Arquivos.csproj|c:\\users\\cunha\\onedrive\\documents\\projetos\\2esan\\programa\u00E7\u00E3o de computadores\\2\u00B0 bimestre\\progcomp2\\arquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ABB9991-A1CA-4C63-A631-3DE957A8384E}|Arquivos\\Arquivos.csproj|solutionrelative:arquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B185494-780F-4A14-999D-5DD00B53E574}|AtividadeArquivos2Bim\\AtividadeArquivos2Bim.csproj|c:\\users\\cunha\\onedrive\\documents\\projetos\\2esan\\programa\u00E7\u00E3o de computadores\\2\u00B0 bimestre\\progcomp2\\atividadearquivos2bim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B185494-780F-4A14-999D-5DD00B53E574}|AtividadeArquivos2Bim\\AtividadeArquivos2Bim.csproj|solutionrelative:atividadearquivos2bim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +26,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teste.csv",
+              "DocumentMoniker": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ArquivoCsv\\Teste.csv",
+              "RelativeDocumentMoniker": "ArquivoCsv\\Teste.csv",
+              "ToolTip": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ArquivoCsv\\Teste.csv",
+              "RelativeToolTip": "ArquivoCsv\\Teste.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-31T01:11:38.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ArquivoCsv\\Program.cs",
+              "RelativeDocumentMoniker": "ArquivoCsv\\Program.cs",
+              "ToolTip": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ArquivoCsv\\Program.cs",
+              "RelativeToolTip": "ArquivoCsv\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T00:59:11.314Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -56,7 +62,7 @@
               "RelativeDocumentMoniker": "ClassesMetodos\\Classes\\Aluno.cs",
               "ToolTip": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ClassesMetodos\\Classes\\Aluno.cs",
               "RelativeToolTip": "ClassesMetodos\\Classes\\Aluno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T22:45:13.461Z",
               "EditorCaption": ""
@@ -69,87 +75,9 @@
               "RelativeDocumentMoniker": "ClassesMetodos\\Program.cs",
               "ToolTip": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ClassesMetodos\\Program.cs",
               "RelativeToolTip": "ClassesMetodos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T22:34:28.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Teste.csv",
-              "DocumentMoniker": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ArquivoCsv\\Teste.csv",
-              "RelativeDocumentMoniker": "ArquivoCsv\\Teste.csv",
-              "ToolTip": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ArquivoCsv\\Teste.csv",
-              "RelativeToolTip": "ArquivoCsv\\Teste.csv",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2025-10-24T00:58:23.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ArquivoCsv\\Program.cs",
-              "RelativeDocumentMoniker": "ArquivoCsv\\Program.cs",
-              "ToolTip": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ArquivoCsv\\Program.cs",
-              "RelativeToolTip": "ArquivoCsv\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:36:23.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\AtividadeArquivos2Bim\\Program.cs",
-              "RelativeDocumentMoniker": "AtividadeArquivos2Bim\\Program.cs",
-              "ToolTip": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\AtividadeArquivos2Bim\\Program.cs",
-              "RelativeToolTip": "AtividadeArquivos2Bim\\Program.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAowA8AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T22:11:15.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\Arquivos\\Program.cs",
-              "RelativeDocumentMoniker": "Arquivos\\Program.cs",
-              "ToolTip": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\Arquivos\\Program.cs",
-              "RelativeToolTip": "Arquivos\\Program.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAAADgAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T22:22:00.704Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ArrayLista\\Program.cs",
-              "RelativeDocumentMoniker": "ArrayLista\\Program.cs",
-              "ToolTip": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\ArrayLista\\Program.cs",
-              "RelativeToolTip": "ArrayLista\\Program.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T01:01:28.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\TratamentoErros\\Program.cs",
-              "RelativeDocumentMoniker": "TratamentoErros\\Program.cs",
-              "ToolTip": "C:\\Users\\cunha\\OneDrive\\Documents\\Projetos\\2ESAN\\Programa\u00E7\u00E3o de Computadores\\2\u00B0 Bimestre\\ProgComp2\\TratamentoErros\\Program.cs",
-              "RelativeToolTip": "TratamentoErros\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T22:23:14.329Z",
               "EditorCaption": ""
             }
           ]
