@@ -29,7 +29,16 @@ string[] LerArquivo(string arq)
 Aluno TransformaLinhaAluno(string linha, int indiceLinha)
 {
     string[] colunas = linha.Split(";");
-    var aluno = new Aluno();
+    var aluno = new Aluno()
+    {
+        Ra = double.Parse(colunas[0]),
+        Nome = colunas[1],
+        Nota1bim = double.Parse(colunas[2]),
+        Nota2bim = double.Parse(colunas[3]),
+        Turma = colunas[4],
+        QtdFaltas = int.Parse(colunas[5]),
+    };
+    /*
     if (double.TryParse(colunas[0], out double ra) == false)
     {
         Console.WriteLine($"Erro ao ra. Linha{linha}");
@@ -48,14 +57,16 @@ Aluno TransformaLinhaAluno(string linha, int indiceLinha)
     aluno.Nota2bim = n2;
     aluno.Turma = colunas[4];
     aluno.Indice = indiceLinha;
+    aluno.QtdFaltas = int.Parse(colunas[5]);
+    */
     return aluno;
 }
 
 var arqv = @"C:\Users\cunha\OneDrive\Documents\Projetos\2ESAN\Programação de Computadores\2° Bimestre\ProgComp2\ArquivoCsv\Teste.csv";
-string[] linhas = LerArquivo(arqv).Skip(1).ToArray();
+string[] linhas = GerenciarArquivo.LerArquivo(arqv).Skip(1).ToArray();
 
 int indice = 1;
-foreach (var linha in linhas) 
+foreach (var linha in linhas)
 {
     var aluno = TransformaLinhaAluno(linha, indice);
     listaAlunos.Add(aluno);
@@ -64,7 +75,7 @@ foreach (var linha in linhas)
 
 foreach (var aluno in listaAlunos)
 {
-    ExibirInfoAluno(aluno);
+    aluno.ExibirInfo();
 }
 
 /*
@@ -137,6 +148,7 @@ Aluno RetornarAluno()
     return aluno;
 }
 
+/*
 void ExibirInfoAluno(Aluno aluno)
 {
         Console.WriteLine($"\n===Informações do aluno nº{aluno.Indice}===");
@@ -144,11 +156,8 @@ void ExibirInfoAluno(Aluno aluno)
         Console.WriteLine($"RA: {aluno.Ra}");
         Console.WriteLine($"Nota 1° Bim: {aluno.Nota1bim}");
         Console.WriteLine($"Nota 2° Bim: {aluno.Nota2bim}");
-        Console.WriteLine($"Média: {aluno.CalcularMedia()}");
-        Console.WriteLine($"Situação: {aluno.RetornarSitacao()}");
+        Console.WriteLine($"Média: {aluno.Media()}");
+        Console.WriteLine($"Situação: {aluno.Situacao()}");
         Console.WriteLine($"Turma: {aluno.Turma}");
 }
-
-
-
-
+*/
