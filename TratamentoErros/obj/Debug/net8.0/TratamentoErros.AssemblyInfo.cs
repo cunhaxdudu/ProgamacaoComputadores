@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TratamentoErros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2022e3098d522f3a78577dbab9147c95c2a697dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("TratamentoErros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TratamentoErros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
