@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeArquivos2Bim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2022e3098d522f3a78577dbab9147c95c2a697dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+652d7dd3c424fa54e0527214e884cafda400c483")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeArquivos2Bim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeArquivos2Bim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

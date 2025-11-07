@@ -37,6 +37,7 @@ Aluno TransformaLinhaAluno(string linha, int indiceLinha)
         Nota2bim = double.Parse(colunas[3]),
         Turma = colunas[4],
         QtdFaltas = int.Parse(colunas[5]),
+        Indice = indiceLinha,
     };
     /*
     if (double.TryParse(colunas[0], out double ra) == false)
